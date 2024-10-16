@@ -77,4 +77,5 @@ button.deleteBtn {
   border-radius: 5px;
   cursor: pointer;
   margin-left: 5em;
+  float: right;
 }
