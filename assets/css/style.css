@@ -35,7 +35,7 @@ h1 {
 }
 
 #addbtn {
-  padding: 10px;
+  padding: 11px;
   border: none;
   background-color: #007bff;
   color: white;
@@ -45,7 +45,6 @@ h1 {
 
 ul {
   list-style-type: none;
-  padding-left: 0;
 }
 
 li {
